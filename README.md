@@ -119,7 +119,7 @@ Now let's focus on building out the /employees resource.
 #%RAML 0.8
 title: HelloRAML API
 version: 1.0.0
-baseUri: [http://api.helloraml.com/{version}](http://api.helloraml.com/%7bversion%7d)
+baseUri: http://api.helloraml.com/{version}
 
 /employees:
    /{employeename}:
@@ -158,7 +158,7 @@ Responses MUST be a map of one or more HTTP status codes, and each response may 
 #%RAML 0.8
 title: HelloRAML API
 version: 1.0.0
-baseUri: [http://api.helloraml.com/{version}](http://api.helloraml.com/%7bversion%7d) 
+baseUri: http://api.helloraml.com/{version}
 
 /employees:
    /{employeename}:
