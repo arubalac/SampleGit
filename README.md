@@ -38,7 +38,7 @@ Use the below URL for accessing the API manager. Provide your credentials as giv
 
 **_URL :_** [https://webapi.cisco.com/accounts/#/signin](https://webapi.cisco.com/accounts/#/signin)
 
-## _![](https://github.com/arubalac/SampleGit/issues/1)_
+## _![](https://cloud.githubusercontent.com/assets/10407640/7357196/09ba034c-ece2-11e4-8dbe-75a8f25b83ef.png)_
 
 Click the APIs tab on upper right hand corner
 
