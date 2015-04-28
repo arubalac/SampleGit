@@ -66,11 +66,11 @@ The above step will take you to the API creation\search page. Enter the API name
 
 Click on the API name. HelloRAML API.
 
-## This will bring up the API detail page.
+This will bring up the API detail page.
 
-## Creating an API Portal
+**_Creating an API Portal_**
 
-## Click on the drop down box in the API Portal as shown i below and select the option Create new portal.
+Click on the drop down box in the API Portal as shown i below and select the option Create new portal.
 
  This will take you the new portal page shown below.
 
@@ -89,31 +89,13 @@ If satisfied with this content click on the **Save** button .
 The API portal pages support HTML tags.
 
 To place HTML tags in the Home Page click on the **Edit** button again and ad the HTML tags shown below.
-
-<table>
-<tbody>
-<tr>
-<td width="638">
+```
 <h1>my first html tag entry....... <h1>
 
 <h2 > <font size="8" color="red"><b> my html entry with color...... </b></font></h2>
 
 <h3><i>An italic entry.....</i></h3>
-
-</td>
-
-</tr>
-
-<tr>
-<td width="638">
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
+```
 
 Click on the **Preview** button to see the page content as modified with the HTML Tags..
 
@@ -131,7 +113,7 @@ Great way to go.
 
 For more detailed feature reference and capabilities of API portal check the reference section.
 
-**Reference**
+##Reference
 
 [http://raml.org/docs.html](http://raml.org/docs.html) - For RAML
 
@@ -139,6 +121,6 @@ For more detailed feature reference and capabilities of API portal check the ref
 
 [http://www.w3schools.com/](http://www.w3schools.com/) - For HTML and JavaScript
 
-**Next                                                          **
+##Next                                                          
 
-*   CIP-800 Challenge - Create the portal and notebook for CIP-500 API
+*  CIP-700-B Tutorial - Create a notebook for the API
