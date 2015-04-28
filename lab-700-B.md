@@ -154,26 +154,9 @@ Once the text cell is inserted add the content you need to add as shown in the b
 
 You can use HTML also as part of the text cell. Let’s try by adding another text cell above the third code snippet and apply a simple HTML as shown below.
 
-<table>
-<tbody>
-<tr>
-<td width="638">
+```
 <h3><i><font size="8" color="red"><b> The below code will return the Group name of the employee</b></font></i></h3>
-
-</td>
-
-</tr>
-
-<tr>
-<td width="638">
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
+```
 
 ## _![Figure](/posts/files/cip-lab-700B/AddHTML.png)_
 
