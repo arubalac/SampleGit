@@ -6,7 +6,9 @@ CIP-700-B Tutorial - Create a portal and a notebook for the API
 
 Create a notebook for CIP-100 tutorial API created earlier.
 
-Completion Time: 30 minutes
+##Completion Time 
+
+30 minutes
 
 ##Introduction
 
