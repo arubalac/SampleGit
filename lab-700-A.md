@@ -10,11 +10,11 @@ Create a portal and notebook for CIP-100 tutorial API created earlier.
 
 30 minutes
 
-**Introduction**
+##Introduction
 
 This tutorial will guide you through the development of an API portal.
 
-**Assumptions**
+##Assumptions
 
 You know how to create an API in API designer and how to test your API using API console.
 
@@ -28,11 +28,11 @@ The following may be useful as references for the above
 
 [http://www.w3schools.com/](http://www.w3schools.com/) - For HTML and JavaScript
 
-**Prerequisites**
+##Prerequisites
 
 Access to API manager
 
-URL : https://webapi.cisco.com/accounts/#/signin
+**_URL:_** [https://webapi.cisco.com/accounts/#/signin](https://webapi.cisco.com/accounts/#/signin)
 
 Completed the CIP-100 tutorial and CIP-600 tutorial.
 
@@ -42,29 +42,29 @@ Completed the CIP-100 tutorial and CIP-600 tutorial.
 
 And download the Postman REST client using the below URL and install it in your machine .
 
-https://www.getpostman.com/
+[https://www.getpostman.com/](https://www.getpostman.com/)
 
-**Steps**
+##Steps
 
-## _Login to API manager_
+**_Login to API manager_**
 
 Use the below URL for accessing the API manager. Provide your credentials as given below.
 
-https://webapi.cisco.com/accounts/#/signin
+[https://webapi.cisco.com/accounts/#/signin](https://webapi.cisco.com/accounts/#/signin)
 
-## Click the APIs tab on upper right hand corner
-
-##  
+Click the APIs tab on upper right hand corner
 
 ##  
 
-## The above step will take you to the API creation\search page. Enter the API name you have created on CIP-100 tutorial and click “Enter”..
+##  
+
+The above step will take you to the API creation\search page. Enter the API name you have created on CIP-100 tutorial and click “Enter”..
 
 ##  
 
 ** **
 
-## Click on the API name. HelloRAML API.
+Click on the API name. HelloRAML API.
 
 ## This will bring up the API detail page.
 
